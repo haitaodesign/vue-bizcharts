@@ -1,7 +1,8 @@
 {
-  "name": "vue-bizcharts",
-  "version": "0.0.3",
-  "main": "lib/vue-bizcharts.common.js",
+  "name": "@markting/mk-bizcharts",
+  "version": "0.0.1",
+  "private": true,
+  "main": "lib/mk-bizcharts.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --dest lib --target lib ./src/components/index.js --report",
